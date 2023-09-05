@@ -17,6 +17,8 @@ https://github.com/Janhavi30052002/PRODIGY_WD_01.git Open index.html in your pre
 
 # Usage
 On the homepage, use the search bar to find doctors or medical services in your area. Book your appointments or consult with doctors online. Browse the health articles section to read informative articles on various health topics.
+# Live Demo
+https://janhavi30052002.github.io/WeCare/
 
 # Contributing
 We welcome contributions from the community to enhance the WeCare website.
